@@ -1,0 +1,31 @@
+/*ACCOMODATION PAGE*/
+body {margin:0; padding:0; height:100%;}
+.clear{clear:both;}
+a {outline:none; text-decoration:none;}
+#wrapperHead {display:block; width:1000px; margin:0 auto; padding:0; text-align:left;}
+#header .logo {padding:8px; float:left;}
+#header nav {display:block; float:right; margin:10px 0 0 0; padding:20px 0;}
+#header nav ul {font-family:Verdana; font-size: 13px; font-weight: bold;}
+#header nav li {display:inline; margin-right:25px;}
+#header nav li a {color:#979797; }
+#header nav li a:hover {color:#3C3F40;}
+#wrapperBody {display:block; height:1100px; width:1000px; margin:auto; padding:0;}
+#intro h3 {text-align: center; font-family:Calibri; border-top: 1px solid #DEDEDE; color:#412654; padding: 10px;}
+#type {width:1000px; height:120px; display: block; float: left; border-bottom: 1px solid #DEDEDE; padding-left:30px; }
+h2.heads {color: white; cursor: pointer;}
+#backpacker{background-image: url('../images/backpack.jpg'); background-size: cover; background-repeat: no-repeat;}
+#bedBreakfast{background-image: url('../images/bedbreak.jpg'); background-size: cover;}
+#cottage{background-image: url('../images/cott.jpg'); background-size: cover;}
+#lodges{background-image: url('../images/lodge.jpg'); background-size: cover;}
+#hotels{background-image: url('../images/hotel.jpg'); background-size: cover;}
+.typeAcco {float: left; margin-right:13px; padding-left:20px; width:160px; height:100px;}
+#accomos img {width:400px; height:400px; float: left; margin-top:20px; }
+#details {float:left; width:550px; height:420px; margin-left: 50px;}
+#details h2 {font-family: Calibri; font-size: 30px;}
+#details h4 {font-family: Calibri; font-size: 18px;}
+#details a{color:#979797;}
+#details p {text-align: justify; font-family: Calibri;}
+#wrapperFoot {display:block; width:1000px; margin:0 auto; padding:0; text-align:left; border-top:1px solid #979797;}
+#footer {display:block; width:1000px; padding:20px 0;}
+#footer p{margin:0; padding:0; color:#979797; float: left; margin-bottom: 20px;}
+#footer p a {color:#979797;}

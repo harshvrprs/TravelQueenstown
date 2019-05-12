@@ -1,0 +1,42 @@
+/*PLACES PAGE*/
+body {margin:0; padding:0;}
+.clear{clear:both;}
+a {outline:none; text-decoration:none;}
+#wrapperHead {display:block; width:1000px; margin:auto; padding:0; text-align:left;}
+#header .logo {padding:8px; float:left;}
+#header nav {display:block; float:right; margin:10px 0 0 0; padding:20px 0;}
+#header nav ul {font-family:Verdana; font-size: 13px; font-weight: bold;}
+#header nav li {display:inline; margin-right:25px;}
+#header nav li a {color:#979797; }
+#header nav li a:hover {color:#3C3F40;}
+#wrapperBody {display:block; width:1000px; margin:auto; padding:0;}
+#container {margin:0; padding:0;}
+blockquote {text-align: center; padding:30px; border-top:1px solid #DEDEDE; font-family:Calibri; font-size:20px; border-bottom:1px solid #DEDEDE;}
+cite {float:right; margin-right: 100px; font-size:15px;}
+#placesSect {float:left; width:480px;}
+h2.title {margin-bottom:15px; padding-bottom:15px; font-size:20px; color:#979797; text-align: center;}
+#placesSect nav{display:block; width:100%; margin-bottom:30px;}
+#placesSect nav ul{margin:0; padding:0; list-style:none;}
+#placesSect nav li{margin:0 0 3px 0; padding:0; font-family:Verdana;}
+#placesSect nav li ul {margin-bottom: 30px;}
+#placesSect nav li ul li{font-size:12px; list-style: circle; text-align: justify;}
+#placesSect nav li.last a{border:none;}
+#placesSect nav li img{ width:370px; height:223px; margin:5px 5px 3px 0; padding:0;}
+#placesSect nav li img.extra {width:100px; height:67px;}
+#placesSect nav a{display:block; margin:0; padding:5px; color:#666666; text-decoration:none; border-bottom:1px solid #979797;}
+#placesSect nav a:hover{color:#FF9900; background-color:#FFFFFF;}
+#dineSect {float:right; width:480px;}
+#dineSect nav{display:block; width:100%; margin-bottom:30px;}
+#dineSect nav ul{margin:0; padding:0; list-style:none;}
+#dineSect nav li{margin:0 0 3px 0; padding:0; font-family:Verdana;}
+#dineSect nav li ul {margin-bottom: 30px;}
+#dineSect nav li ul li{font-size:12px; list-style: circle; text-align: justify;}
+#dineSect nav li.last a{border:none;}
+#dineSect nav li img{ width:370px; height:223px; margin:5px 0 3px 5px; padding:0;}
+#dineSect nav li img.extra {width:100px; height:67px;}
+#dineSect nav a{display:block; margin:0; padding:5px; color:#666666; text-decoration:none; border-bottom:1px solid #979797;}
+#dineSect nav a:hover{color:#FF9900; background-color:#FFFFFF;}
+#wrapperFoot {display:block; width:1000px; margin:0 auto; padding:0; text-align:left; border-top:1px solid #979797;}
+#footer {display:block; width:1000px; padding:20px 0;}
+#footer p{margin:0; padding:0; color:#979797; float: left; margin-bottom: 20px;}
+#footer p a {color:#979797;}

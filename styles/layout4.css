@@ -1,0 +1,23 @@
+/*CONTACT US PAGE*/
+body {margin:0; padding:0; height:100%;}
+.clear{clear:both;}
+a {outline:none; text-decoration:none;}
+#wrapperHead {display:block; width:1000px; margin:0 auto; padding:0; text-align:left;}
+#header .logo {padding:8px; float:left;}
+#header nav {display:block; float:right; margin:10px 0 0 0; padding:20px 0;}
+#header nav ul {font-family:Verdana; font-size: 13px; font-weight: bold;}
+#header nav li {display:inline; margin-right:25px;}
+#header nav li a {color:#979797; }
+#header nav li a:hover {color:#3C3F40;}
+#wrapperBody {display:block; height:500px; width:1000px; margin:auto; padding:0;}
+#contactUs h2 {text-align: center; font-family:Calibri; border-top: 1px solid #DEDEDE; color:#412199;}
+#contactForm {width:430px; background-color:#f2f2f2; padding-left:50px; padding-top: 10px; margin: auto;}
+h2.title {margin-bottom:15px; padding-bottom:15px; font-size:20px; color:#979797; text-align: center;}
+#conForm label {font-size:15px; color:#454545; margin-left: 5px;}
+#conForm input.inputs {width: 250px; padding: 8px 15px; margin: 8px 0; border: 1px solid #ccc; border-radius: 4px;}
+#conForm input.submitButton {width:80px; background-color:#4CAF50; color:white; padding:10px 20px; border:none; border-radius:4px; margin: 18px 20px; cursor:pointer;}
+#conForm input.submitButton:hover {background-color:#45A049;}
+#wrapperFoot {display:block; width:1000px; margin:0 auto; padding:0; text-align:left; border-top:1px solid #979797;}
+#footer {display:block; width:1000px; padding:20px 0;}
+#footer p{margin:0; padding:0; color:#979797; float: left; margin-bottom: 20px;}
+#footer p a {color:#979797;}

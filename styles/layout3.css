@@ -1,0 +1,21 @@
+/*GALLERY PAGE*/
+body {margin:0; padding:0; height:100%;}
+.clear{clear:both;}
+a {outline:none; text-decoration:none;}
+#wrapperHead {display:block; width:1000px; margin:0 auto; padding:0; text-align:left;}
+#header .logo {padding:8px; float:left;}
+#header nav {display:block; float:right; margin:10px 0 0 0; padding:20px 0;}
+#header nav ul {font-family:Verdana; font-size: 13px; font-weight: bold;}
+#header nav li {display:inline; margin-right:25px;}
+#header nav li a {color:#979797; }
+#header nav li a:hover {color:#3C3F40;}
+#wrapperBody {display:block; height:800px; width:1000px; margin:auto; padding:0;}
+#gallery {height: 200px; width:auto;}
+#gallery img {height: 100px; width: 100px; margin-right: 8px;}
+#gallery img.last{margin-right:0px; }
+#gallery h2 {text-align: center; font-family:Calibri; border-top: 1px solid #DEDEDE; color:#659812;}
+#preview img {height:600px; width:997px; border:2px;}
+#wrapperFoot {display:block; width:1000px; margin:0 auto; padding:0; text-align:left; border-top:1px solid #979797;}
+#footer {display:block; width:1000px; padding:20px 0;}
+#footer p{margin:0; padding:0; color:#979797; float: left; margin-bottom: 20px;}
+#footer p a {color:#979797;}
